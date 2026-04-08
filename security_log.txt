@@ -1,0 +1,284 @@
+[2026-02-11 23:42:02] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-11 23:42:02] AUTH_FAILED | User: hacker | Invalid credentials
+[2026-02-11 23:51:03] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-11 23:51:03] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:04] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-11 23:51:04] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:06] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-11 23:51:06] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:07] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-11 23:51:07] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:08] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-11 23:51:08] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:08] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:09] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:09] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:09] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:09] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:10] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:10] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:10] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:11] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:11] COMMAND | User: operator1 | FC: 6
+[2026-02-11 23:51:11] COMMAND | User: operator1 | FC: 6
+[2026-02-12 00:03:44] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:03:44] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:03:47] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:03:47] BLOCKED | User: operator1 | FC:6 Reg:0 Val:50 - Temperature value 50 outside safe range (15-30)
+[2026-02-12 00:03:48] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:03:48] BLOCKED | User: operator1 | FC:6 Reg:0 Val:5 - Temperature value 5 outside safe range (15-30)
+[2026-02-12 00:03:49] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:03:49] ALLOWED | User: operator1 | FC:6 Reg:1 Val:50
+[2026-02-12 00:03:51] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:03:51] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:03:51] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:03:51] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:03:51] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:03:52] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:03:52] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:03:52] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:03:53] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:03:53] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:03:53] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:03:54] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:03:54] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:40] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:40] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:40] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:40] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-12 00:08:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-12 00:08:43] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-02-17 17:32:44] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-02-17 17:32:52] ALLOWED | User: operator1 | FC:6 Reg:0 Val:15
+[2026-02-17 17:33:08] AUTH_FAILED | User: hacker | Invalid credentials (attempt 1/3)
+[2026-02-17 17:33:15] AUTH_FAILED | User: hacker | Invalid credentials (attempt 2/3)
+[2026-02-17 17:33:21] AUTH_FAILED | User: hacker | Invalid credentials (attempt 3/3)
+[2026-02-17 17:33:46] AUTH_FAILED | User: Unknown | Invalid credentials (attempt 1/3)
+[2026-02-17 17:34:08] AUTH_FAILED | User: kill | Invalid credentials (attempt 1/3)
+[2026-02-17 17:34:23] AUTH_FAILED | User: kill | Invalid credentials (attempt 2/3)
+[2026-02-17 21:05:59] AUTH_FAILED | User: kill | Invalid credentials (attempt 3/3)
+[2026-02-17 21:06:06] LOCKED | User: kill | Account locked. Try again in 293 seconds
+[2026-02-17 21:06:11] LOCKED | User: kill | Account locked. Try again in 288 seconds
+[2026-02-17 21:06:16] LOCKED | User: kill | Account locked. Try again in 283 seconds
+[2026-02-17 21:06:21] LOCKED | User: kill | Account locked. Try again in 278 seconds
+[2026-02-17 21:06:35] AUTH_FAILED | User: Unknown | Invalid credentials (attempt 2/3)
+[2026-02-17 21:07:47] AUTH_FAILED | User: Unknown | Invalid credentials (attempt 3/3)
+[2026-03-12 22:57:27] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-12 22:57:28] AUTH_FAILED | User: hacker | Invalid credentials
+[2026-03-17 00:31:02] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-17 00:31:08] ALLOWED | User: operator1 | FC:6 Reg:1 Val:45
+[2026-03-19 21:17:24] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:17:24] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:25] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:17:25] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:26] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:17:26] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:28] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:17:28] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:29] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:17:29] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:29] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:29] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:30] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:30] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:30] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:31] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:31] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:31] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:32] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:32] COMMAND | User: operator1 | FC: 6
+[2026-03-19 21:17:32] COMMAND | User: operator1 | FC: 6

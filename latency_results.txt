@@ -1,0 +1,7 @@
+LATENCY MEASUREMENT RESULTS
+======================================================================
+
+Direct Connection: 0.49 ms
+Security Processing: 0.0003 ms
+Estimated Total: 0.49 ms
+Threshold (50ms): MET

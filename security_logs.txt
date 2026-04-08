@@ -1,0 +1,220 @@
+[2026-03-19 21:34:52] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:34:58] ALLOWED | User: operator1 | FC:6 Reg:0 Val:30
+[2026-03-19 21:35:54] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:35:58] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:36:24] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:36:33] BLOCKED | User: operator1 | FC:6 Reg:0 Val:50 - Temperature value 50 outside safe range (15-30)
+[2026-03-19 21:38:13] AUTH_FAILED | User: hacker | Invalid credentials (attempt 1/3)
+[2026-03-19 21:38:16] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:38:16] BLOCKED | User: operator1 | FC:6 Reg:0 Val:80 - Temperature value 80 outside safe range (15-30)
+[2026-03-19 21:39:13] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:39:13] BLOCKED | User: operator1 | FC:6 Reg:0 Val:5 - Temperature value 5 outside safe range (15-30)
+[2026-03-19 21:39:37] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:39:37] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:39:37] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:39:38] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:39:38] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:39:38] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:39:39] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:39:39] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:39:40] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:39:40] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-19 21:39:40] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-19 21:39:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-19 21:39:41] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-19 21:39:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-19 21:39:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-19 21:39:42] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-19 21:40:23] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-19 21:40:23] BLOCKED | User: operator1 | FC:16 Reg:0 - Function code 16 not permitted for role operator
+[2026-03-21 22:09:05] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:09:12] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-21 22:09:22] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:09:44] BLOCKED | User: operator1 | FC:6 Reg:0 Val:50 - Temperature value 50 outside safe range (15-30)
+[2026-03-21 22:10:00] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:10:09] BLOCKED | User: operator1 | FC:6 Reg:0 Val:5 - Temperature value 5 outside safe range (15-30)
+[2026-03-21 22:10:29] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-03-21 22:10:38] ALLOWED | User: engineer1 | FC:6 Reg:1 Val:50
+[2026-03-21 22:10:49] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-03-21 22:10:55] BLOCKED | User: engineer1 | FC:6 Reg:1 Val:80 - Humidity value 80 outside safe range (35-65)
+[2026-03-21 22:11:07] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-03-21 22:11:12] BLOCKED | User: engineer1 | FC:6 Reg:1 Val:10 - Humidity value 10 outside safe range (35-65)
+[2026-03-21 22:11:32] AUTH_FAILED | User: hacker | Invalid credentials (attempt 1/3)
+[2026-03-21 22:12:49] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:12:49] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-21 22:12:51] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:12:51] ALLOWED | User: operator1 | FC:6 Reg:1 Val:50
+[2026-03-21 22:12:52] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:12:52] BLOCKED | User: operator1 | FC:6 Reg:0 Val:5 - Temperature value 5 outside safe range (15-30)
+[2026-03-21 22:12:53] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:12:53] ALLOWED | User: operator1 | FC:6 Reg:1 Val:50
+[2026-03-21 22:12:54] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:12:54] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-21 22:12:54] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-21 22:12:55] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-21 22:12:55] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-21 22:12:55] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-21 22:12:56] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-21 22:12:56] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:12:56] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:12:57] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:12:57] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:12:57] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:12:57] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:29] AUTH_FAILED | User: hacker | Invalid credentials (attempt 2/3)
+[2026-03-21 22:13:30] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:13:30] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:30] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:13:30] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:31] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:13:31] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:31] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:31] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:32] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:32] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:33] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:33] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:33] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:34] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:34] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:35] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:35] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:35] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:36] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:36] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-21 22:13:37] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-21 22:13:37] BLOCKED | User: operator1 | FC:16 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-27 13:39:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-27 13:39:58] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-27 13:40:21] ALLOWED | User: operator1 | FC:6 Reg:0 Val:25
+[2026-03-27 13:40:38] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-03-27 13:40:49] ALLOWED | User: engineer1 | FC:6 Reg:1 Val:55
+[2026-03-27 13:55:25] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-27 13:55:29] TIMEOUT | User: operator1 | Session expired due to inactivity
+[2026-03-27 13:55:38] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-27 13:55:50] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-27 13:55:55] TIMEOUT | User: operator1 | Session expired due to inactivity
+[2026-03-27 13:56:33] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-03-27 13:56:39] TIMEOUT | User: engineer1 | Session expired due to inactivity
+[2026-03-27 13:57:58] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-03-27 13:58:08] TIMEOUT | User: engineer1 | Session expired due to inactivity
+[2026-03-27 13:58:44] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-27 13:58:47] TIMEOUT | User: operator1 | Session expired due to inactivity
+[2026-03-30 11:26:27] AUTH_FAILED | User: operator | Invalid credentials (attempt 1/3)
+[2026-03-30 11:26:37] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:26:50] ALLOWED | User: operator1 | FC:6 Reg:0 Val:25
+[2026-03-30 11:27:08] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-03-30 11:27:13] BLOCKED | User: engineer1 | FC:6 Reg:1 Val:79 - Humidity value 79 outside safe range (35-65)
+[2026-03-30 11:27:33] AUTH_FAILED | User: 45 | Invalid credentials (attempt 1/3)
+[2026-03-30 11:27:42] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-03-30 11:27:45] ALLOWED | User: engineer1 | FC:6 Reg:1 Val:45
+[2026-03-30 11:28:38] AUTH_FAILED | User: hacker | Invalid credentials (attempt 1/3)
+[2026-03-30 11:28:46] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:28:46] BLOCKED | User: operator1 | FC:6 Reg:0 Val:80 - Temperature value 80 outside safe range (15-30)
+[2026-03-30 11:28:55] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:28:55] BLOCKED | User: operator1 | FC:6 Reg:0 Val:5 - Temperature value 5 outside safe range (15-30)
+[2026-03-30 11:29:08] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:29:08] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-30 11:29:09] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-30 11:29:09] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-30 11:29:09] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-30 11:29:10] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-30 11:29:10] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-30 11:29:11] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-30 11:29:11] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-30 11:29:11] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-30 11:29:12] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-30 11:29:12] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-30 11:29:13] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-30 11:29:13] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-30 11:29:13] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-30 11:29:14] BLOCKED | User: operator1 | FC:6 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-30 11:29:18] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:29:18] BLOCKED | User: operator1 | FC:16 Reg:0 - Rate limit exceeded (max 10/min)
+[2026-03-30 11:29:58] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:30:20] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:30:26] ALLOWED | User: operator1 | FC:6 Reg:0 Val:26
+[2026-03-30 11:30:46] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:30:50] ALLOWED | User: operator1 | FC:6 Reg:0 Val:28
+[2026-03-30 11:31:00] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:31:03] ALLOWED | User: operator1 | FC:6 Reg:0 Val:29
+[2026-03-30 11:31:12] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:31:20] ALLOWED | User: operator1 | FC:6 Reg:0 Val:24
+[2026-03-30 11:31:27] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:31:31] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-03-30 11:31:52] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-03-30 11:31:55] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-04-02 00:09:27] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:09:33] ALLOWED | User: operator1 | FC:6 Reg:0 Val:17
+[2026-04-02 00:09:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:09:48] ALLOWED | User: operator1 | FC:6 Reg:0 Val:25
+[2026-04-02 00:09:59] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:10:30] BLOCKED | User: operator1 | FC:6 Reg:0 Val:0 - Temperature value 0 outside safe range (15-30)
+[2026-04-02 00:10:52] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:10:59] ALLOWED | User: operator1 | FC:6 Reg:0 Val:18
+[2026-04-02 00:11:08] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:11:13] ALLOWED | User: operator1 | FC:6 Reg:0 Val:29
+[2026-04-02 00:11:20] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:11:26] BLOCKED | User: operator1 | FC:6 Reg:0 Val:0 - Temperature value 0 outside safe range (15-30)
+[2026-04-02 00:11:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:11:49] ALLOWED | User: operator1 | FC:6 Reg:0 Val:17
+[2026-04-02 00:11:56] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:12:06] ALLOWED | User: operator1 | FC:6 Reg:0 Val:25
+[2026-04-02 00:12:15] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:12:20] ALLOWED | User: operator1 | FC:6 Reg:0 Val:18
+[2026-04-02 00:12:28] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:12:31] ALLOWED | User: operator1 | FC:6 Reg:0 Val:29
+[2026-04-02 00:12:42] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:12:45] ALLOWED | User: operator1 | FC:6 Reg:0 Val:24
+[2026-04-02 00:20:16] AUTH_FAILED | User: Unknown | Invalid credentials (attempt 1/3)
+[2026-04-02 00:20:27] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:20:35] ALLOWED | User: operator1 | FC:6 Reg:0 Val:17
+[2026-04-02 00:21:21] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:21:25] ALLOWED | User: operator1 | FC:6 Reg:0 Val:25
+[2026-04-02 00:21:34] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:21:40] ALLOWED | User: operator1 | FC:6 Reg:0 Val:18
+[2026-04-02 00:22:01] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:22:05] ALLOWED | User: operator1 | FC:6 Reg:0 Val:29
+[2026-04-02 00:22:28] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:22:34] ALLOWED | User: operator1 | FC:6 Reg:0 Val:23
+[2026-04-02 00:24:59] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:25:07] BLOCKED | User: operator1 | FC:6 Reg:0 Val:0 - Temperature value 0 outside safe range (15-30)
+[2026-04-02 00:25:16] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:25:19] ALLOWED | User: operator1 | FC:6 Reg:0 Val:17
+[2026-04-02 00:25:26] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:25:40] ALLOWED | User: operator1 | FC:6 Reg:0 Val:25
+[2026-04-02 00:25:49] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:25:53] ALLOWED | User: operator1 | FC:6 Reg:0 Val:18
+[2026-04-02 00:26:02] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:26:08] ALLOWED | User: operator1 | FC:6 Reg:0 Val:29
+[2026-04-02 00:26:16] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:26:39] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:26:42] ALLOWED | User: operator1 | FC:6 Reg:0 Val:15
+[2026-04-02 00:26:53] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:26:56] ALLOWED | User: operator1 | FC:6 Reg:0 Val:30
+[2026-04-02 00:27:04] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:27:10] ALLOWED | User: operator1 | FC:6 Reg:0 Val:15
+[2026-04-02 00:27:17] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:27:20] ALLOWED | User: operator1 | FC:6 Reg:0 Val:15
+[2026-04-02 00:38:48] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:38:55] ALLOWED | User: operator1 | FC:6 Reg:0 Val:17
+[2026-04-02 00:39:06] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:39:16] ALLOWED | User: operator1 | FC:6 Reg:0 Val:25
+[2026-04-02 00:39:27] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:39:34] ALLOWED | User: operator1 | FC:6 Reg:0 Val:18
+[2026-04-02 00:39:46] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:39:52] BLOCKED | User: operator1 | FC:6 Reg:0 Val:29 - Suspicious oscillation pattern detected
+[2026-04-02 00:40:27] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-04-02 00:40:36] BLOCKED | User: engineer1 | FC:6 Reg:1 Val:34 - Humidity value 34 outside safe range (35-65)
+[2026-04-02 00:51:43] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 00:51:48] TIMEOUT | User: operator1 | Session expired due to inactivity
+[2026-04-02 01:17:29] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-02 01:17:41] TIMEOUT | User: operator1 | Session expired due to inactivity
+[2026-04-02 01:18:02] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-04-02 01:18:07] TIMEOUT | User: engineer1 | Session expired due to inactivity
+[2026-04-02 01:18:32] AUTH_SUCCESS | User: engineer1 | Login successful
+[2026-04-02 01:18:36] TIMEOUT | User: engineer1 | Session expired due to inactivity
+[2026-04-05 22:54:59] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-05 22:55:26] ALLOWED | User: operator1 | FC:6 Reg:0 Val:20
+[2026-04-05 22:55:41] AUTH_SUCCESS | User: operator1 | Login successful
+[2026-04-05 22:55:46] ALLOWED | User: operator1 | FC:6 Reg:1 Val:50
