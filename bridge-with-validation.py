@@ -147,7 +147,7 @@ def check_oscillation(register, value, username):
 
 # ===== SESSION TIMEOUT
 TIMEOUT = 300 # 5 minutes
-last_activity = time.time()
+
 
 # ===== MAIN BRIDGE =====
 print("🔒 Security Bridge with Validation Started")
@@ -180,6 +180,7 @@ try:
             if auth_success:
                 client_conn.send(b"AUTH_OK")
                 print(f"✅ {username} ({role}) authenticated\n")    #check authentication
+                last_activity = time.time()
                 
                 plc = ModbusClient(host="127.0.0.1", port=502, unit_id=1)   #connect to plc
                 
